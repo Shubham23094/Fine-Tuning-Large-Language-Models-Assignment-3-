@@ -72,11 +72,8 @@ The model is saved after each epoch, and the final model is saved for evaluation
 Install the required packages using the following command:
 ```bash
 pip install torch transformers datasets accelerate
-Report
-A detailed report is provided in report.pdf, which includes:
 
-Accuracy comparison between the pretrained and fine-tuned models.
-Time taken to fine-tune the model.
-Model parameter analysis.
-Hardware resources used.
-Analysis of corrected and uncorrected failure cases.
+
+### Model Checkpoints 
+
+https://drive.google.com/drive/folders/1_O38TyNW-uAEdKWG8C_HcPeaOojMoDTC?usp=drive_link
